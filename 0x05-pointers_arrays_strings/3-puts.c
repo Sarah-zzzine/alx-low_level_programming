@@ -3,7 +3,7 @@
 /**
  * _puts - a function that prints a string, followed by a new line, to stdout
  * @str: string
- */
+ */i
 
 void _puts(char *str)
 {
@@ -11,5 +11,5 @@ void _puts(char *str)
 	{
 		_putchar(*str = *str + 1);
 	}
-	_putchar('\n');
+		_putchar('\n');
 }
